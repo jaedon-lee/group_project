@@ -168,3 +168,25 @@
 .unhideTest,.unhideVaccine,.unhideAdditional {
   display: block;
 }
+body{
+    background-color:darkkhaki;
+    color: beige;
+    font-family: monospace;
+}
+
+object {
+    display: block;
+    margin: auto;
+}
+
+.maincounties {
+    cursor: pointer;
+}
+
+text {
+    pointer-events: none;
+}
+
+.maincounties:hover{
+    fill:orange;
+}
